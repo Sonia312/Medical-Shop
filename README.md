@@ -1,4 +1,4 @@
-# Medical-Shop
+# Medical-Shop Data Manager
 
 Project made using python language which stores the data of medicines available and its amount.
 
